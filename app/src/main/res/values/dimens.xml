@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_toolbar_title_size">15sp</dimen>
+    <dimen name="linear_main_book_now_paddng_left_right">8dp</dimen>
+    <dimen name="linear_main_book_now_paddng_top_bottom">12dp</dimen>
+    <dimen name="card_view_main_book_now_margin">15dp</dimen>
+    <dimen name="txt_kindly_note_size">13sp</dimen>
+    <dimen name="book_now_view_margin_bottom">8dp</dimen>
+    <dimen name="txt_date_size">12sp</dimen>
+    <dimen name="txt_shift_size">13sp</dimen>
+    <dimen name="book_now_date_box_paddng_left_right">10dp</dimen>
+    <dimen name="book_now_date_box_paddng_top_bottom">7dp</dimen>
+    <dimen name="txt_visitor_type_info_size">12sp</dimen>
+    <dimen name="btn_minus_txt_size">15sp</dimen>
+    <dimen name="frame_visitor_type_item_parent_padding">5dp</dimen>
+    <dimen name="book_now_view_margin_top">8dp</dimen>
+    <dimen name="visitor_type_desc_age_padding_left">10dp</dimen>
+    <dimen name="btn_minus_plus_sign_width">46dp</dimen>
+    <dimen name="txt_ticket_number_size">11sp</dimen>
+    <dimen name="edt_ticket_name_size">12sp</dimen>
+    <dimen name="padding_ticket_item_boxes">4dp</dimen>
+    <dimen name="padding_ticket_item_boxes_gender_age_name">6dp</dimen>
+    <dimen name="cb_agree_terms_size">12sp</dimen>
+    <dimen name="btn_book_now_width">165dp</dimen>
+    <dimen name="txt_pop_up_title_size">15dp</dimen>
+    <dimen name="txt_pop_up_mesg_size">13dp</dimen>
+    <dimen name="webview_pop_up_height">300dp</dimen>
+    <dimen name="linear_webview_parent_padding">20dp</dimen>
+    <dimen name="pop_up_title_padding">10dp</dimen>
+    <dimen name="pop_up_retry_btn_parent_width">280dp</dimen>
+    <dimen name="btn_pop_up_width">120dp</dimen>
+</resources>
